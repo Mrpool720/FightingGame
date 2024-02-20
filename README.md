@@ -34,4 +34,5 @@ These are all the DIV ID's you're gonna need access to 👇
 #6 ID 👉 'p2Health' = Div that holds player 2's health
 
 <br>
-![Screenshot 2024-02-20 at 18 32 20](https://github.com/Mrpool720/FightingGame/assets/72791295/596eaa98-3ba5-46ce-9c28-207a664ed054)
+![Screenshot 2024-02-20 at 18 32 20](https://github.com/Mrpool720/FightingGame/assets/72791295/7991346f-3fc2-4037-a595-fc9aa3025a61)
+
